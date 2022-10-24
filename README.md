@@ -29,3 +29,7 @@ scikit-learn, NLTK, and TensorFlow can be installed by following the instruction
 * [Machine Learning using Advanced Algorithms and Visualization in R [Video]](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-using-advanced-algorithms-and-visualization-r-vi?utm_source=github&utm_medium=repository&utm_campaign=9781788294980)
 
 * [Learning JavaScript Data Structures and Algorithms - Second Edition](https://www.packtpub.com/web-development/learning-javascript-data-structures-and-algorithms-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781785285493)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781785889622">https://packt.link/free-ebook/9781785889622 </a> </p>
